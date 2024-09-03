@@ -1,0 +1,9 @@
+In Python you can use a while loops to iterate over data as long  as certain conditions are satisfied
+
+In Python you use for loop for simple iterations over given data
+
+In Python you can work with numbers and words
+
+In  Python you can use classes and functions
+
+In Python you can work with external files as a source of data
